@@ -59,6 +59,6 @@ public class Java8FeatureApplication implements CommandLineRunner {
 //    System.out.println("sfdsfsdgdfgdgdfgdfgfd");
 //    System.out.println("sfdsfsdgdfgdgdfgdfgfd");
 //    System.out.println("Next test commit");
-    System.out.println("Next test commit");
+//    System.out.println("Next test commit");
   }
 }
