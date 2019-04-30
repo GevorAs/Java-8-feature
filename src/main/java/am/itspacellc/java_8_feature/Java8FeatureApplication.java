@@ -56,7 +56,8 @@ public class Java8FeatureApplication implements CommandLineRunner {
 //    flat map example
     anyService.flatMapExample();
 
-    System.out.println("sfdsfsdgdfgdgdfgdfgfd");
-    System.out.println("sfdsfsdgdfgdgdfgdfgfd");
+//    System.out.println("sfdsfsdgdfgdgdfgdfgfd");
+//    System.out.println("sfdsfsdgdfgdgdfgdfgfd");
+    System.out.println("Next test commit");
   }
 }
